@@ -2,7 +2,7 @@
 
 - 🔭 I'am currently studying JavaScript
 - 🌱 I look forward to study React.js and Node.js. 
-- ⚡ focused on achieving my first job as web developer and then as a software engineer
+- ⚡ Working as a web developer at TecBan.
 
 <div id="main-skills">
    <h2 style="margin: 0 auto;">Main Skills &#128640;</h2>
