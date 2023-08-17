@@ -1,3 +1,7 @@
+<div style= "display: inline_block">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&height=120&section=header"/>
+
+
 ### Hi, my name is Gabriel Santana! I'm a web developer and I'll be a software engineer someday.
 
 - 🔭 I'am currently studying JavaScript
