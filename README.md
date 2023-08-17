@@ -1,6 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bb23c&size=38&center=true&vCenter=true&width=1000&lines=Gabriel's+Coding+House)](https://git.io/typing-svg)
 
 ### Hi, my name is Gabriel Santana! I'm a web developer and I'll be a software engineer someday.
 
