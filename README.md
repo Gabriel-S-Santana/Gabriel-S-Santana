@@ -5,8 +5,8 @@
 
 ### Hi, my name is Gabriel Santana! I'm a web developer and I'll be a software engineer someday.
 
-- 🔭 I'am currently studying JavaScript
-- 🌱 I look forward to study React.js and Node.js. 
+- 🔭 I'am currently studying TypeScript and Angular
+- 🌱 I look forward to study Java
 - ⚡ Working as a web developer at TecBan.
 
 <div id="main-skills">
